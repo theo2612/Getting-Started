@@ -1,33 +1,34 @@
-1. Q. Are you in school - High School or University?
-2. Q. Are you in IT or another industry?
-3. Self study
+Q. Are you in school - High School or University?
+	1. Consider grabbing an entry level job and get experience in the industry while you're younger with less overhead
+Q. Are you in IT or another industry?
+1. Self study
 	1. Budget yourself time daily/weekly 
 	2. 30min or Whatever time you have available. Do not neglect obligations
 	3. Cert study, THM, HTB, CTF's, overthewire.org
-4. Network on linkedIn
+2. Network on linkedIn
 	1. like
 	2. comment
 	3. ask questions
 	4. engage postively
-5. GitHub
+3. GitHub
 	1. add what you have already completed
 	2. Create
 	3. Contribute
 	4. This shows that you can start projects and increment to completion
-6. read Daniel Kelly's post 
+4. read Daniel Kelly's post 
 	1. https://danielkelley.me/cybersecurity-roadmap/ 
-7. Go on interviews
+5. Go on interviews
 	1. Take notes - bring a small notebook
 		1. I felt confident before my first interview and absolutely devastated after. I didn't know answers to basic questions they asking - OSI model, white list vs black list, XXS, sql injection, ets.  so I took notes on the back of paperwork they gave me. I don't advise that. I took notes on what interviewers were looking for over the next 4 years. My search was longer due to covid. 
 	2. You have 2 gatekeepers to pass. 
 		1. First is HR or an algorithm and second are the interviewers themselves. If you don't know something they are asking you, ask them if it is ok, (I never had anyone tell me 'no') jot it down, and learn it for the next interview.
 	3. just go on interviews, get comfortable hearing 'no', discover what you they are looking for and learn it,
-8. Don't compare yourself to where others 
+6. Don't compare yourself to where others 
 	1. In their journey
 	2. In their career
 	3. you are miles ahead of the people who are too scared to start
 	4. or who have search paralysis
-9. Resume - add it all to your resume. Employers want the warm and fuzzy when it comes to you and your skills. They want proof that you can do what you say you can do
+7. Resume - add it all to your resume. Employers want the warm and fuzzy when it comes to you and your skills. They want proof that you can do what you say you can do
 	1. Github
 	2. THM, HTB, codewars rank
 	3. home lab specs
@@ -37,7 +38,7 @@
 	7. projects
 	8. Continuing education
 	9. content creation
-10. 7. other creators
+8. Other twitch creators
 	1. 0xtib3rius - mentorship mondays
 	2. alh4zr3d - Newbie Tuesdays
 	3. KrisNova - Industry professional and DevOps Sensei
