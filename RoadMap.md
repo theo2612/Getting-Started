@@ -16,7 +16,7 @@ Q. Are you in IT or another industry?
 	3. Contribute
 	4. This shows that you can start projects and increment to completion
 4. read Daniel Kelly's post 
-	1. https://danielkelley.me/cybersecurity-roadmap/ 
+	1. [A Roadmap for Transitioning into Cybersecurity](https://cybersecurityandgrowth.substack.com/p/a-roadmap-for-transitioning-into-cybersecurity)
 5. Go on interviews
 	1. Take notes - bring a small notebook
 		1. I felt confident before my first interview and absolutely devastated after. I didn't know answers to basic questions they asking - OSI model, white list vs black list, XXS, sql injection, ets.  so I took notes on the back of paperwork they gave me. I don't advise that. I took notes on what interviewers were looking for over the next 4 years. My search was longer due to covid. 
