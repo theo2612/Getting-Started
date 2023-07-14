@@ -27,6 +27,8 @@ Q. Are you in IT or another industry?
 		1. Discover what they are looking for and learn it. I took notes on what interviewers were looking for over 4 years. My search was longer due to covid. 
 		2. I felt confident before my first interview and absolutely devastated after. I didn't know answers to basic questions they asking - OSI model, white list vs black list, XXS, sql injection, ets.  So, I took notes on the back of paperwork they gave me. I don't advise that. 
 		3. If you don't know something they are asking you, ask them if it is ok (I never had anyone tell me 'no') to jot it down, and learn it for the next interview.
+		4. 4. Hiring manager insight
+			1. Here’s my overarching, critical message for understanding what you need to communicate with your resume to me as a hiring manager: 1) I care most about 			what you have done 2) I care a little about what you’re capable of doing but haven’t done 3) I could care less about what you know how to do if you aren’t 			capable of turning that knowledge into action.	
 7. Don't compare yourself to where others 
 	1.  In their journey
 	2.  In their career
