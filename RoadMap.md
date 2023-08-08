@@ -64,3 +64,5 @@ Q. Are you in IT or another industry?
 	17.  gerald_auger_simplycyber - Industry Professional, Host SimplyCyber, News, Career advice
 	18.  het_tanis - Industry Professional, Linux Networkd Admin
 	19.  chadb_n00b - Industry Professional, Red Teamer, Co-working
+	20. h8handles - Industry professional, studying for oscp
+	21. GoProSlowYo - Industry Professional, docker expert
