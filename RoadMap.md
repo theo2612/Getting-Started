@@ -1,4 +1,4 @@
-Q. Are you in school - High School or University?
+Q. Are you in school. High School or University?
 	1. Consider grabbing an entry level job and get experience in the industry while you're younger with less overhead  
 Q. Are you in IT or another industry?
 
